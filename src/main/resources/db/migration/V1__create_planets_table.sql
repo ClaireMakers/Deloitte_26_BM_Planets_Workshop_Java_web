@@ -1,0 +1,1 @@
+CREATE TABLE planets (id bigserial PRIMARY KEY, name varchar(50), description varchar(1000), circumference int);
